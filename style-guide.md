@@ -1,0 +1,51 @@
+# Front-end Style Guide
+
+## Layout
+
+The designs were created to the following widths:
+
+- Mobile: 375px
+- Desktop: 1440px
+
+## Colors
+
+### Primary
+
+- Dark Blue (intro and email sign up background): 
+- Dark Blue (main background): 
+- Dark Blue (footer background): 
+- Dark Blue (testimonials background): 
+
+### Accent
+
+- Cyan (inside call-to-action gradient): 
+- Blue (inside call-to-action gradient): 
+- Light Red (error): hsl(0, 100%, 63%)
+
+### Neutral
+
+- White: 
+
+## Typography
+
+### Body Copy
+
+- Font size: 14px
+
+### Headings, Call-to-actions, Header Navigation
+
+- Family: [Raleway](https://fonts.google.com/specimen/Raleway)
+- Weights: 400, 700
+
+### Body
+
+- Family: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
+- Weights: 400, 700
+
+## Icons
+
+For the social icons, you can use a font icon library. Some suggestions can be found below:
+
+- [Font Awesome](https://fontawesome.com/)
+- [IcoMoon](https://icomoon.io/)
+- [Ionicons](https://ionicons.com/)
